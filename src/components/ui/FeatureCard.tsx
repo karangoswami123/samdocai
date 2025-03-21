@@ -40,6 +40,9 @@ export const FeatureCard = ({
       case "compressor":
         window.location.href = "https://compressor-c3ph.onrender.com/";
         break;
+      case "Grammar-and-Plagiarism-Checker":
+        window.location.href = "https://grammar-and-plagiarism.onrender.com/";
+        break;
       // default:
       //   window.location.href = "http://localhost:1222";
     }

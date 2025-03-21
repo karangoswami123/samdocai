@@ -434,6 +434,16 @@ export const Features = ({ onFeatureClick }: FeaturesProps) => {
       id: "compressor",
       url: "https://compressor-c3ph.onrender.com/",
     },
+    {
+      title: "Grammar and Plagiarism Checker",
+      description: "Check your documents for grammar errors and plagiarism with our advanced AI-powered tools.",
+     
+      icon: FileArchive,
+      iconClassName: "bg-red-50 text-red-500",
+      delay: 0.5,
+      id: "Grammar-and-Plagiarism-Checker",
+      url: "https://grammar-and-plagiarism.onrender.com/",
+    },
   ];
 
   // Function to handle click event

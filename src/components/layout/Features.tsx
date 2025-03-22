@@ -432,7 +432,7 @@ export const Features = ({ onFeatureClick }: FeaturesProps) => {
       iconClassName: "bg-red-50 text-red-500",
       delay: 0.5,
       id: "compressor",
-      url: "https://compressor-c3ph.onrender.com/",
+      url: "https://fileforge-magic-converter.onrender.com/",
     },
     {
       title: "Grammar and Plagiarism Checker",

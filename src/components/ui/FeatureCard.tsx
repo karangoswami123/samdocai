@@ -38,7 +38,7 @@ export const FeatureCard = ({
         window.location.href = "https://diagram-interpret.onrender.com/";
         break;
       case "compressor":
-        window.location.href = "https://compressor-c3ph.onrender.com/";
+        window.location.href = "https://fileforge-magic-converter.onrender.com/";
         break;
       case "Grammar-and-Plagiarism-Checker":
         window.location.href = "https://grammar-and-plagiarism.onrender.com/";
